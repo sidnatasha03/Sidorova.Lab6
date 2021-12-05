@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sidorovaa.Lab6.Exercise1
+namespace Sidorovaa.Lab6.Exercise2
 {
 
     class Program
